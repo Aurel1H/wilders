@@ -1,0 +1,18 @@
+{
+  "name": "atelier-chalk",
+  "version": "1.0.0",
+  "description": "atelier sur Node et installation du package chalk",
+  "main": "script.js",
+  "type" : "module",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [
+    "chalk"
+  ],
+  "author": "Aurelien",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
